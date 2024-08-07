@@ -1,0 +1,41 @@
+body {
+    background-color: #38598b;
+    color: #e7eaf6;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    background-color: #113f67;
+    height: 50px;    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+nav a {
+    text-decoration: none;
+    color: #e7eaf6;
+    justify-content: center;
+    display: inline;
+    
+}
+a {
+    padding: 20px;
+}
+p {
+    padding: 15px;
+}
+
+input {
+    background-color: #a2a8d3;
+    height: 24px;
+    border: solid #113f67;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #a2a8d3;
+    height: 32px;
+    border: solid #113f67;
+    border-radius: 8px;
+}
